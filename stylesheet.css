@@ -1,0 +1,17 @@
+img.chara{
+  width:  16%;
+  height: 16%;
+}
+.creature img{
+  width:  30%;
+  height: 30%;
+}
+img.tap{
+  transform: rotate(270deg);
+}
+img.untap{
+  transform: rotate(180deg);
+}
+span{
+  float: left;
+}
